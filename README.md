@@ -1,4 +1,5 @@
-GoIT: Homework 4
+## GoIT: Homework 4
+
 In this homework, the task was to continue developing the CLI bot that I worked on in previous homeworks. It had to have further functionalities:
 
 - Create a contact book system using OOP principles to easily add, edit, and delete contacts.
